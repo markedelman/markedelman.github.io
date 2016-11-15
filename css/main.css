@@ -8,7 +8,7 @@ body {
 div.card {
 	width: 50%;
 	margin: 20% 20%;
-	border: dashed #aaa 1px;
+	border-left: solid #cecece 5px;
 	padding: 10px;
 	float: left;
 }
