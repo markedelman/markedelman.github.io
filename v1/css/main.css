@@ -13,3 +13,7 @@ div.card {
 	float: left;
 	background: #efefef;
 }
+
+.card h1 {
+	color: red;
+}
